@@ -1,4 +1,4 @@
-Certainly! Here's the complete README.md file in markdown format for your password generator project:
+
 
 ```markdown
 # Password Generator
@@ -22,7 +22,7 @@ A simple React-based Password Generator that allows you to generate secure passw
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/password-generator.git
+   git clone repo url
    cd password-generator
    ```
 
@@ -54,7 +54,7 @@ A simple React-based Password Generator that allows you to generate secure passw
 
 ## Demo
 
-For a live demo, you can visit [Demo-link]([https://your-demo-link.com](https://password-generator-five-navy-83.vercel.app/)).
+For a live demo, you can visit [Demo-link](https://password-generator-five-navy-83.vercel.app/).
 
 ## Contributing
 
