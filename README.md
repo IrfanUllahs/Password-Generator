@@ -9,10 +9,7 @@ A simple React-based Password Generator that allows you to generate secure passw
 
 - [Features](#features)
 - [Usage](#usage)
-- [Installation](#installation)
 - [Demo](#demo)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -53,31 +50,11 @@ A simple React-based Password Generator that allows you to generate secure passw
 
    - Click the "Copy" button to copy the generated password to the clipboard.
 
-## Installation
 
-If you want to integrate this password generator into your existing project, you can follow these steps:
-
-1. **Install the Package:**
-
-   ```bash
-   npm install password-generator-react
-   ```
-
-2. **Import and Use:**
-
-   ```jsx
-   import PasswordGenerator from 'password-generator-react';
-
-   function YourComponent() {
-     return (
-       <PasswordGenerator />
-     );
-   }
-   ```
 
 ## Demo
 
-For a live demo, you can visit [https://password-generator-five-navy-83.vercel.app/](https://your-demo-link.com).
+For a live demo, you can visit [Demo-link]([https://your-demo-link.com](https://password-generator-five-navy-83.vercel.app/)).
 
 ## Contributing
 
